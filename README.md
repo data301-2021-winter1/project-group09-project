@@ -9,7 +9,6 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
 
 ## Describe your dataset in about 150-200 words
 
@@ -18,8 +17,8 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Team Members
 
 - Jai Viswanathan: I'm a fourth year management student
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Person 2: Hi! I am in thrid year science majoring in Economics
+- Person 3: Hi! I am also third year from sciences majoring in Economics
 
 ## Images
 
