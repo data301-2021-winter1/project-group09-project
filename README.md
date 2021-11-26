@@ -1,5 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5891488&assignment_repo_type=AssignmentRepo)
-# Group 09 - {Start-up Funding Analysis in India}
+# Group 09 - Start-up Analysis in India
 
 
 ## Milestones
@@ -8,7 +8,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-With the project we're hoping that we can provide a more meaningful insight into the startup up world in India and hopefully use that information to help investors make more intelligent decisions. We are interested in this dataset as it as we are firstly, Management and Economics students. Secondly, the start-up world is very confusing and oversaturated giving new investors a distorted image of what is actually happening in the ecosystem. Cleaning up this data and answering questions similar to the following would help us do that: Which cities does the most funding come from? Which industries have the most successful funding rounds? which startup industry or city reaches the furthest funding round? Answering these questions will also help build a user-facing interface which will be useful to them.
+With the project I'm hoping that I can provide a more meaningful insight into the startup up world in India and hopefully use that information to help rookies in the start-up world make more intelligent decisions. I am interested in this dataset as I am a Management student. Secondly, the start-up world is very confusing and oversaturated giving new entrants a distorted image of what is actually happening in the ecosystem and how to take the first step. Cleaning up this data and answering questions similar to the following would help us do that: How many start-ups exist in each city, what is the most popular industry vertical, when did new entrants usually enter the industry, which city has the most funding and which investment type brings in the most amount of funding.
 
 ## Describe your dataset in about 150-200 words
 
@@ -19,12 +19,9 @@ This dataset was uploaded to Kaggle by someone interested in the startup ecosyst
 - Jai Viswanathan: Hi, I'm a fourth year Management student.
 
 
-
-<img src ="images/test.png" width="100px">
-
 ## References
 
 {https://www.kaggle.com/sudalairajkumar/indian-startup-funding}
 
 
-
+s
